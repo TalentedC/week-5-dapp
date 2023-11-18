@@ -1,6 +1,6 @@
 # week-5-dapp
 
-#Objectives
+# Objectives
 
 - Complete the projects together with your group
 - Create a voting dApp to cast votes, delegate and query results on chain
