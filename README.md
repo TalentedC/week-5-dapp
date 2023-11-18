@@ -1,4 +1,4 @@
-# week-5-dapp
+# Week-5-Dapp
 
 # Objectives
 
@@ -9,6 +9,7 @@
 - (bonus) Use an oracle to fetch off-chain data to define the proposals instead of passing them in constructor
 
 # Voting dApp integration guidelines
+
 - Single POST method:
   - Request voting tokens from API
 - Use these tokens to interact with the tokenized ballot
